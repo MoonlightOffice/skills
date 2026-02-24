@@ -1,7 +1,6 @@
 ---
 name: ripgrep-search
-description: |
-  Repository-wide codebase search and change planning with ripgrep (`rg`). Use when tasks require finding all relevant code paths, impact analysis for features or bugs, gathering context for architecture decisions, or executing safe/context-aware renames/refactors (for example: `Foo` to `Bar`, `FooService` to `BarService`, and import/path updates like `foo-service` to `bar-service`).
+description: "Repository-wide codebase search and change planning with ripgrep (`rg`). Use when tasks require finding all relevant code paths, impact analysis for features or bugs, gathering context for architecture decisions, or executing safe/context-aware renames/refactors (for example: `Foo` to `Bar`, `FooService` to `BarService`, and import/path updates like `foo-service` to `bar-service`)."
 ---
 
 # Ripgrep Search
